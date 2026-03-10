@@ -4,7 +4,7 @@
 
 ## Overview
 
-Potio ("the App") is a tattoo aftercare companion app developed by [Your Team Name].
+Potio ("the App") is a tattoo aftercare companion app developed by Majestica.
 We are committed to protecting your privacy.
 
 ## Data Collection
