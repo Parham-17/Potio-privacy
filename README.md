@@ -2,6 +2,12 @@
 
 **Last updated:** March 10, 2025
 
+## Contact
+
+If you have any questions about this Privacy Policy or you need any support, please contact us at:
+[parham.karbasi78@gmail.com] , [donchik020202@gmail.com]
+
+
 ## Overview
 
 Potio ("the App") is a tattoo aftercare companion app developed by Majestica.
@@ -45,7 +51,3 @@ Potio does not knowingly collect data from anyone, including children.
 We may update this Privacy Policy from time to time. Any changes will
 be reflected on this page with an updated date.
 
-## Contact
-
-If you have any questions about this Privacy Policy, please contact us at:
-[parham.karbasi78@gmail.com] , [donchik020202@gmail.com]
