@@ -1,6 +1,6 @@
 # Privacy Policy for Potio
 
-**Last updated:** March 10, 2025
+**Last updated:** March 10, 2026
 
 ## Contact
 
